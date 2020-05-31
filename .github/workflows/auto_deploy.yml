@@ -34,5 +34,3 @@ jobs:
        run: surge ./ class2020_project1.surge.sh token ${{secrets.token}}
       
        
-        echo Add other actions to build,
-        echo test, and deploy your project.
